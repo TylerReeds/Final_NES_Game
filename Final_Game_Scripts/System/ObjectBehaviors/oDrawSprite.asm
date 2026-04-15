@@ -1,3 +1,0 @@
-oDrawSprite:
-
-	RTS

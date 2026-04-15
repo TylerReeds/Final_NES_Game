@@ -1,3 +1,0 @@
-oChangeBackgroundPalette
-
-	RTS

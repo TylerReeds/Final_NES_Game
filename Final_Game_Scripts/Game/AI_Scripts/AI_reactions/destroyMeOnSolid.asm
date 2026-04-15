@@ -1,2 +1,0 @@
-;;;; destroy this object 
-	DestroyObject

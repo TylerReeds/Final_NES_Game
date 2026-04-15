@@ -1,3 +1,0 @@
-oStopAllSounds:
-
-	RTS

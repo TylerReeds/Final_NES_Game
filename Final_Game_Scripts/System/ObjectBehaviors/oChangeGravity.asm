@@ -1,3 +1,0 @@
-oChangeGravity:
-
-	RTS

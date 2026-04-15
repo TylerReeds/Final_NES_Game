@@ -1,3 +1,0 @@
-oReverseDirection:
-
-	RTS

@@ -1,3 +1,0 @@
-oCreateObjectAtPosition:
-
-	RTS

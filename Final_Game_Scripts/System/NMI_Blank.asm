@@ -1,5 +1,0 @@
-NMI:
-;; Blank NMI
-
-	
-	RTI

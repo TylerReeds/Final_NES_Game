@@ -1,3 +1,0 @@
-oPlayMusic:
-
-	RTS

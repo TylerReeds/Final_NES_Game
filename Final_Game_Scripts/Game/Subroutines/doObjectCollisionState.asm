@@ -1,1 +1,0 @@
-;do object collision state

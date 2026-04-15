@@ -1,3 +1,0 @@
-oMoveTowardsObject
-
-	RTS

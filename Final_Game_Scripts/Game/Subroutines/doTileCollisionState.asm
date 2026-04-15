@@ -1,1 +1,0 @@
-;; do tile collision state
