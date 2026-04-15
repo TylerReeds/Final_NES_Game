@@ -10,3 +10,7 @@ Use with the Mesen emulator.
 
 All backend files are included in GitHub, such as the scripts and graphic assets. You can download the NES ROM folder, unzip the file called 
 ColourBall, then drag and drop this onto your Mesen emulator to play. 
+
+Link to gameplay video: https://youtu.be/HP4saeP9r-Y 
+
+Link to trailer: https://youtu.be/T7yQ4jXt294
